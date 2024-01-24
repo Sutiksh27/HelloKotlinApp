@@ -23,6 +23,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 ![](https://github.com/Sutiksh27/HelloKotlinApp/blob/main/IAmBatman.gif)
 
+If you want to hear the audio, download the video below:
+![](https://github.com/Sutiksh27/HelloKotlinApp/blob/main/deviceRecord.mp4)
+
 ## License
 
     Copyright [2024] [Sutiksh Verma]
