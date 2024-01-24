@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![](https://www.github.com/Sutiksh27/HelloKotlinApp/blob/main/IAmBatman.gif)
+![](https://github.com/Sutiksh27/HelloKotlinApp/blob/main/IAmBatman.gif)
 
 ## License
 
