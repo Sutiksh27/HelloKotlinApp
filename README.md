@@ -10,13 +10,13 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [ > ] Image and introductory message displayed on screen
+* [ > ] Button displayed on screen
+* [ > ] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] Added audio greeting when the button is pressed
+* [ > ] Added audio greeting when the button is pressed
 
 ## Video Walkthrough
 
@@ -25,7 +25,7 @@ Put a GIF video here
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Sutiksh Verma]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
